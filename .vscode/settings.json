@@ -1,0 +1,4 @@
+{
+    "autoimport.filesToScan": "./src/** ./src/app/**/*.ts",
+    "git.ignoreLimitWarning": true
+}
